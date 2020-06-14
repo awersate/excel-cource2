@@ -1,0 +1,18 @@
+Webpack (import/exports)
+    Babel(для изменение версий чтобы поддерживало старые браузеры)
+    Scss
+    Eslint(следить за чистотой)
+    2 Mods
+        - Dev
+          Dev Server, SourceMaps(показывает моды где идет разработка), Eslint, Not Minified JS & CSS(не сжимать код)
+         -Prod
+          Minified Code
+Git
+
+    Production
+        1.0.0
+        0------------
+    Development
+        1.0.2
+        1-------------- + ---   PR(poolreques внесение изменений)+
+        2-----------------   после пулреквеста ветка удаляется
